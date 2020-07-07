@@ -1,0 +1,24 @@
+Ana Florescu
+Suma totala cumparaturi: 23.33
+Auchan: banane:3.99
+Mega Image: portocale:7.99
+Auchan: paste:5.15
+Lidl: orez:6.20
+inghetata: indisponibil
+
+Dan Popescu
+Suma totala cumparaturi: 16.98
+Mega Image: portocale:7.99
+Auchan: banane:3.99
+Mega Image: ciocolata:5.00
+orez: indisponibil
+cirese: indisponibil
+
+Maria Ionescu
+Suma totala cumparaturi: 16.97
+Lidl: iaurt:1.99
+Lidl: cafea:4.20
+Lidl: orez:5.00
+Lidl: paine:3.00
+Lidl: zahar:2.78
+
